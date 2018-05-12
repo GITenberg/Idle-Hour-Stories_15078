@@ -1,0 +1,26 @@
+_repo: Idle-Hour-Stories_15078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potts, Eugenia Dunlap
+    alias: Potts, E. D. (Eugenia Dunlap)
+    gutenberg_agent_id: '5829'
+    url: http://www.gutenberg.org/2009/agents/5829
+description: ''
+gutenberg_issued: '2005-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Idle Hour Stories
+url: http://www.gutenberg.org/ebooks/15078
