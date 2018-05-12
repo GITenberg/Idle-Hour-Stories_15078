@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5829'
     url: http://www.gutenberg.org/2009/agents/5829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15078#Idle-Hour-Stories
 gutenberg_issued: '2005-02-16'
 gutenberg_type: Text
 identifiers:
